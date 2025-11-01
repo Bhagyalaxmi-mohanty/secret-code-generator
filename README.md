@@ -39,7 +39,7 @@ Encoded message: khoor zruog
 | Step | Description | Screenshot |
 |------|--------------|-------------|
 | 1 | Encoding a message | *(https://github.com/Bhagyalaxmi-mohanty/secret-code-generator/blob/main/Screenshot%20Encoding.png?raw=true)* |
-| 2 | Decoding a message | *()* |
+| 2 | Decoding a message | *(https://github.com/Bhagyalaxmi-mohanty/secret-code-generator/blob/main/Screenshot%20decode.png?raw=true)* |
 | 3 | Exit screen | *()* |
 
 ---
