@@ -40,7 +40,7 @@ Encoded message: khoor zruog
 |------|--------------|-------------|
 | 1 | Encoding a message | *(https://github.com/Bhagyalaxmi-mohanty/secret-code-generator/blob/main/Screenshot%20Encoding.png?raw=true)* |
 | 2 | Decoding a message | *(https://github.com/Bhagyalaxmi-mohanty/secret-code-generator/blob/main/Screenshot%20decode.png?raw=true)* |
-| 3 | Exit screen | *()* |
+| 3 | Exit screen | *(https://github.com/Bhagyalaxmi-mohanty/secret-code-generator/blob/main/Screenshot%20Exit.png?raw=true)* |
 
 ---
 
