@@ -36,7 +36,11 @@ Encoded message: khoor zruog
 ---
 
 ## 📷 Screenshots
-*(Add your encoding, decoding, and exit screenshots here later)*
+| Step | Description | Screenshot |
+|------|--------------|-------------|
+| 1 | Encoding a message | *()* |
+| 2 | Decoding a message | *()* |
+| 3 | Exit screen | *()* |
 
 ---
 
