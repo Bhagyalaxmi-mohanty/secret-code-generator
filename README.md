@@ -38,7 +38,7 @@ Encoded message: khoor zruog
 ## 📷 Screenshots
 | Step | Description | Screenshot |
 |------|--------------|-------------|
-| 1 | Encoding a message | *()* |
+| 1 | Encoding a message | *(https://github.com/Bhagyalaxmi-mohanty/secret-code-generator/blob/main/Screenshot%20Encoding.png?raw=true)* |
 | 2 | Decoding a message | *()* |
 | 3 | Exit screen | *()* |
 
