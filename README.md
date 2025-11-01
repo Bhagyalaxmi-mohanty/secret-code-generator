@@ -55,5 +55,5 @@ Encoded message: khoor zruog
 ---
 
 ## 🧩 Author
-**Bhagyalaxmi Mohanty (Mama)**  
+**Bhagyalaxmi Mohanty **  
 BSc ITM — DREIMS University  
