@@ -1,0 +1,26 @@
+[
+  {
+    "amount": 1233.0,
+    "category": "food",
+    "date": "2025-10-19",
+    "note": "lunch"
+  },
+  {
+    "amount": 120.0,
+    "category": "trasport",
+    "date": "2025-10-16",
+    "note": "auto fare"
+  },
+  {
+    "amount": 150.0,
+    "category": "food",
+    "date": "2025-10-17",
+    "note": "burger"
+  },
+  {
+    "amount": 300.0,
+    "category": "entertainment",
+    "date": "2025-10-18",
+    "note": "movie ticket"
+  }
+]
